@@ -17,6 +17,8 @@ Calls by time: This KPI measures the volume of calls during different times of t
 Average speed of answer: This KPI measures the average time taken by agents to answer customer calls.
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered: This KPI measures the performance of agents in terms of the average handle time of calls versus the number of calls answered.
 
+![image](https://github.com/user-attachments/assets/a3204601-6faf-4783-bd92-ca485ca06781)
+
 
 Task 3: Customer Retention
 
