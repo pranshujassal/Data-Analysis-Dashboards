@@ -31,7 +31,9 @@ This task requires you to create a dashboard that displays the defined KPIs for 
 Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed:
 
 This task requires you to write an email to the engagement partner, explaining the findings from the dashboard and providing suggestions on what needs to be changed to improve customer retention.
+![image](https://github.com/user-attachments/assets/ad010425-5164-4f39-b524-dfeef81c1334)
 
+![image](https://github.com/user-attachments/assets/6652c38b-36ca-4fff-9fc8-0339da1a7162)
 
 Task 4: Diversity & Inclusion
 
