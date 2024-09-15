@@ -42,6 +42,7 @@ Gender balance in the executive suite:
 This task requires you to measure and analyze the gender balance in the executive suite and create appropriate KPIs based on the dataset.
 Calculating the following measures could help to define proper KPIs:
 
+
 No. of men: This KPI measures the number of male employees in the executive suite.
 
 No. of women: This KPI measures the number of female employees in the executive suite.
@@ -61,4 +62,10 @@ No. of leavers: This KPI measures the number of employees who left the company d
 Average performance rating: men: This KPI measures the average performance rating of male employees in the executive suite.
 
 Average Performance rating: women: This KPI measures the average performance rating of female employees in the executive suite.
+![image](https://github.com/user-attachments/assets/f36d098a-e185-4c3f-9abc-add2b97f3689)
+
+![image](https://github.com/user-attachments/assets/4dbc2d8e-0813-46a9-ab84-3d952c15f4f9)
+
+![image](https://github.com/user-attachments/assets/10abd051-2ef7-4442-8ffc-8428bcb71246)
+
 
